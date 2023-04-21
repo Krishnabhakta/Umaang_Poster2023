@@ -1,0 +1,109 @@
+#img1 {
+    border-radius: 50%;
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+#img2 {
+    border-radius: 50%;
+    float: right;
+    height: 100px;
+    width: 100px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+body {
+    background: linear-gradient(rgba(255, 255, 255, 0.372), rgba(255, 255, 255, 0.053)), url(Lord\ 2.jpg);
+    background-size: cover;
+}
+#img3 { 
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#h21 {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+#text1 {
+    margin: 10px 0 10px 0;
+    font-size: 45pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    -webkit-text-stroke: 2px white;
+}
+#text2 {
+    margin: 10px 0 10px 0;
+    font-size: 30pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    -webkit-text-stroke: 2px white;
+}
+#topic {
+    margin: 10px 0 10px 0;
+    font-size: 35pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    -webkit-text-stroke: 2px white;
+}
+#img4 {
+    border-radius: 50%;
+    height: 450px;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#things {
+    margin: 0 0 30px 0;
+    font-size: 50pt;
+    font-family: cursive;
+    font-weight: bolder;
+    text-align: center;
+    color: whitesmoke;
+    -webkit-text-stroke: 3pt black;
+}
+#prabhuji {
+    border-radius: 50%;
+    float: left;
+    height: 250px;
+    width: 250px;
+}
+#link {
+    font-size: 20pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    width: 270pt;
+    display: block;
+    margin: auto 2;
+}
+.details {
+    font-size: 27pt;
+    font-weight: bolder;
+    margin: 0 0 0 60%;
+    position: relative;
+    bottom: 290px;
+}
+#ys {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 17pt;
+    margin: 0 0 0 0;
+    position: relative;
+    bottom: 100px;
+    -webkit-text-stroke: 1px black;
+}
